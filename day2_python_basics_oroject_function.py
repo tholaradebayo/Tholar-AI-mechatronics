@@ -66,7 +66,7 @@ def analyze_class(data):
 
 
 def display_summary(data, stats):
-    """Display student results and class summary without tabulate"""
+    """Display student results and class summary"""
     
     print("\n--- STUDENT RESULTS ---")
     print(f"{'Name':<15} {'Scores':<20} {'Average':<8} {'Grade':<6}")
